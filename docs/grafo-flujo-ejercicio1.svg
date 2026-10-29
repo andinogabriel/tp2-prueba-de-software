@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 760" width="620" height="760" font-family="Segoe UI, Arial, sans-serif">
+<rect width="620" height="760" fill="#ffffff"/>
+<text x="20" y="28" font-size="16" font-weight="600" fill="#222">Grafo de flujo - ProcesarDescuentoCliente</text>
+<text x="190" y="470" font-size="15" font-style="italic" fill="#1565c0" text-anchor="middle">R1</text>
+<text x="345" y="290" font-size="15" font-style="italic" fill="#1565c0" text-anchor="middle">R2</text>
+<text x="295" y="350" font-size="15" font-style="italic" fill="#1565c0" text-anchor="middle">R3</text>
+<text x="343" y="530" font-size="15" font-style="italic" fill="#1565c0" text-anchor="middle">R4</text>
+<text x="530" y="300" font-size="15" font-style="italic" fill="#1565c0" text-anchor="middle">R5 (exterior)</text>
+<line x1="252.3" y1="69.3" x2="99.5" y2="149.8" stroke="#333" stroke-width="1.6"/>
+<polygon points="99.5,149.8 106.9,140.2 111.5,149.1" fill="#333"/>
+<text x="163.9" y="105.5" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">V</text>
+<line x1="284.1" y1="74.1" x2="354.4" y2="144.4" stroke="#333" stroke-width="1.6"/>
+<polygon points="354.4,144.4 343.1,140.2 350.2,133.1" fill="#333"/>
+<text x="331.3" y="105.3" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">F</text>
+<path d="M80,180 C 70,590 90,710 248,710" fill="none" stroke="#333" stroke-width="1.6"/>
+<polygon points="248.0,710.0 237.0,715.0 237.0,705.0" fill="#333"/>
+<line x1="357.5" y1="175.6" x2="303.7" y2="242.8" stroke="#333" stroke-width="1.6"/>
+<polygon points="303.7,242.8 306.7,231.1 314.5,237.4" fill="#333"/>
+<text x="318.6" y="205.2" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">V</text>
+<line x1="370.0" y1="180.0" x2="370.0" y2="418.0" stroke="#333" stroke-width="1.6"/>
+<polygon points="370.0,418.0 365.0,407.0 375.0,407.0" fill="#333"/>
+<text x="382.0" y="295.0" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">F</text>
+<line x1="277.7" y1="275.8" x2="233.5" y2="332.6" stroke="#333" stroke-width="1.6"/>
+<polygon points="233.5,332.6 236.3,320.9 244.2,327.0" fill="#333"/>
+<text x="243.6" y="300.2" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">V</text>
+<line x1="298.1" y1="278.3" x2="361.1" y2="419.9" stroke="#333" stroke-width="1.6"/>
+<polygon points="361.1,419.9 352.0,411.9 361.2,407.8" fill="#333"/>
+<text x="341.6" y="345.1" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">F</text>
+<line x1="237.1" y1="360.3" x2="351.1" y2="428.7" stroke="#333" stroke-width="1.6"/>
+<polygon points="351.1,428.7 339.1,427.3 344.3,418.7" fill="#333"/>
+<line x1="356.7" y1="454.9" x2="304.6" y2="513.6" stroke="#333" stroke-width="1.6"/>
+<polygon points="304.6,513.6 308.2,502.0 315.7,508.7" fill="#333"/>
+<text x="318.7" y="480.3" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">V</text>
+<line x1="370.0" y1="460.0" x2="370.0" y2="598.0" stroke="#333" stroke-width="1.6"/>
+<polygon points="370.0,598.0 365.0,587.0 375.0,587.0" fill="#333"/>
+<text x="382.0" y="525.0" font-size="13" font-weight="700" fill="#c62828" text-anchor="middle">F</text>
+<line x1="303.3" y1="544.9" x2="355.4" y2="603.6" stroke="#333" stroke-width="1.6"/>
+<polygon points="355.4,603.6 344.3,598.7 351.8,592.0" fill="#333"/>
+<line x1="355.1" y1="633.4" x2="286.4" y2="695.3" stroke="#333" stroke-width="1.6"/>
+<polygon points="286.4,695.3 291.2,684.2 297.9,691.6" fill="#333"/>
+<circle cx="270" cy="60" r="20" fill="#fff3e0" stroke="#e65100" stroke-width="2"/>
+<text x="270" y="65" font-size="15" font-weight="700" fill="#222" text-anchor="middle">1</text>
+<text x="298" y="65" font-size="12" fill="#e65100" text-anchor="start">montoCompra &lt;= 0</text>
+<circle cx="80" cy="160" r="20" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+<text x="80" y="165" font-size="15" font-weight="700" fill="#222" text-anchor="middle">2</text>
+<text x="80" y="132" font-size="12" fill="#555" text-anchor="middle">throw</text>
+<circle cx="370" cy="160" r="20" fill="#fff3e0" stroke="#e65100" stroke-width="2"/>
+<text x="370" y="165" font-size="15" font-weight="700" fill="#222" text-anchor="middle">3</text>
+<text x="398" y="165" font-size="12" fill="#e65100" text-anchor="start">esSocio</text>
+<circle cx="290" cy="260" r="20" fill="#fff3e0" stroke="#e65100" stroke-width="2"/>
+<text x="290" y="265" font-size="15" font-weight="700" fill="#222" text-anchor="middle">4</text>
+<text x="318" y="265" font-size="12" fill="#e65100" text-anchor="start">antigüedad &gt;= 5</text>
+<circle cx="220" cy="350" r="20" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+<text x="220" y="355" font-size="15" font-weight="700" fill="#222" text-anchor="middle">5</text>
+<text x="192" y="355" font-size="12" fill="#555" text-anchor="end">porcentaje += 5</text>
+<circle cx="370" cy="440" r="20" fill="#fff3e0" stroke="#e65100" stroke-width="2"/>
+<text x="370" y="445" font-size="15" font-weight="700" fill="#222" text-anchor="middle">6</text>
+<text x="398" y="445" font-size="12" fill="#e65100" text-anchor="start">montoCompra &gt;= 100.000</text>
+<circle cx="290" cy="530" r="20" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+<text x="290" y="535" font-size="15" font-weight="700" fill="#222" text-anchor="middle">7</text>
+<text x="262" y="535" font-size="12" fill="#555" text-anchor="end">porcentaje += 5</text>
+<circle cx="370" cy="620" r="20" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+<text x="370" y="625" font-size="15" font-weight="700" fill="#222" text-anchor="middle">8</text>
+<text x="398" y="625" font-size="12" fill="#555" text-anchor="start">return importe</text>
+<circle cx="270" cy="710" r="20" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+<text x="270" y="715" font-size="15" font-weight="700" fill="#222" text-anchor="middle">9</text>
+<text x="298" y="715" font-size="12" fill="#555" text-anchor="start">fin</text>
+<g font-size="12" fill="#333">
+<circle cx="460" cy="690" r="8" fill="#fff3e0" stroke="#e65100" stroke-width="2"/><text x="475" y="694">nodo predicado (P = 4)</text>
+<circle cx="460" cy="715" r="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/><text x="475" y="719">nodo de proceso / unión</text>
+<text x="452" y="742">N = 9   A = 12   R = 5</text>
+</g>
+</svg>
