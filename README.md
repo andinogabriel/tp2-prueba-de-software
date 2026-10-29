@@ -1,6 +1,6 @@
 # TP 2 - Prueba de Software
 
-Resolución del Trabajo Práctico Nro 2 de Prueba de Software. El enunciado pedía C# con xUnit "o equivalente", así que lo hice en Java 25 con JUnit 5 y Maven.
+Resolución del Trabajo Práctico Nro 2 de Prueba de Software. El enunciado pedía C# con xUnit "o equivalente", así que lo hicimos en Java 25 con JUnit 5 y Maven.
 
 El TP tiene tres partes:
 
